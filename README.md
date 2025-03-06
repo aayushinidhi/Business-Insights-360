@@ -106,7 +106,7 @@ DAX Language 🔢
 
 DAX Studio (To reduce file size) 📂
 
-Business Related Terms 📈
+➡️Business Related Terms 📈
 
 Gross Margin, Gross Margin %
 
