@@ -74,68 +74,69 @@ Created region and product-wise overall market performance report and unit econo
 
 Identified market trends and tracked KPIs 📊.
 
-Skills 📚
+➡️Skills 📚
 
-➡️ Learnt Power BI fundamentals 🧠.
+Learnt Power BI fundamentals 🧠.
 
-➡️ Creating calculating columns and DAX measures 📐.
+Creating calculating columns and DAX measures 📐.
 
-➡️ Data Modelling, data validation techniques, and using KPI indicators 📊.
+Data Modelling, data validation techniques, and using KPI indicators 📊.
 
-➡️ Using bookmarks to switch between two visuals and conditional formatting 🎨.
+Using bookmarks to switch between two visuals and conditional formatting 🎨.
 
-➡️ Page navigation with buttons 🖱️.
+Page navigation with buttons 🖱️.
 
-➡️ Using tooltips to save page area 💡.
+Using tooltips to save page area 💡.
 
-➡️ Dynamic titles based on the applied filters 🔄.
+Dynamic titles based on the applied filters 🔄.
 
-➡️ Power BI services for publishing and sharing reports online 🌐.
+Power BI services for publishing and sharing reports online 🌐.
 
-➡️ Auto refresh setup for data through gateway ⏱️.
+Auto refresh setup for data through gateway ⏱️.
 
-➡️ Created a date table using M language 📅.
+Created a date table using M language 📅.
 
-Tech Stacks 💻
+➡️Tech Stacks 💻
 
-➡️ SQL 🗃️
+SQL 🗃️
 
-➡️ Power BI Desktop 🖥️
+Power BI Desktop 🖥️
 
-➡️ DAX Language 🔢
+DAX Language 🔢
 
-➡️ DAX Studio (To reduce file size) 📂
+DAX Studio (To reduce file size) 📂
 
 Business Related Terms 📈
 
-➡️ Gross Margin, Gross Margin %
+Gross Margin, Gross Margin %
 
-➡️ Gross Sales, Gross Sales %
+Gross Sales, Gross Sales %
 
-➡️ Pre-invoice deductions and Post-invoice deductions 💳
+Pre-invoice deductions and Post-invoice deductions 💳
 
-➡️ Net Sales, Net Invoice Sales 💵
+Net Sales, Net Invoice Sales 💵
 
-➡️ Net Profit and Net Profit % 💹
+Net Profit and Net Profit % 💹
 
-➡️ COGS (Cost of Goods Sold) 📦
+COGS (Cost of Goods Sold) 📦
 
-➡️ YTG (Year to Go) 📅
+YTG (Year to Go) 📅
 
-➡️ YTD (Year to Date) 📊
+YTD (Year to Date) 📊
 
-➡️ Direct, Retailer, Consumer, and Distributors 🛒
+Direct, Retailer, Consumer, and Distributors 🛒
 
-Soft Skills 🤝
+➡️ Soft Skills 🤝
 
-➡️ Stakeholder mapping analysis 📍
+Stakeholder mapping analysis 📍
 
-➡️ Effective communication with stakeholders' feedback and management 🗣️
+Effective communication with stakeholders' feedback and management 🗣️
 
-➡️ Business and domain knowledge in sales, finance, marketing, and supply chain 🏢.
+Business and domain knowledge in sales, finance, marketing, and supply chain 🏢.
 
 Conclusion 🎯
-➡️ This dashboard answers many business questions based on different scenarios. This report can be used to make data-driven decisions to make AtliQ more profitable 📈.
+
+This dashboard answers many business questions based on different scenarios. This report can be used to make data-driven decisions to make AtliQ more profitable 📈.
 
 
 
