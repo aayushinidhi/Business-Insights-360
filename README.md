@@ -4,116 +4,139 @@ This project aims to streamline and optimize various aspects of AtliQ Hardware's
 
 Live Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiYzFmYjc4MGUtMWM4NC00N2U5LWE4ZDAtNzEzZWEzYjFlMGJiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
-1)Finance View 💰
+1) Finance View 💰
 
-Objectives:
+➡️ Objectives:
+
 Improve financial planning and budgeting processes.
+
 Enhance cost control and expense management.
 
-Key Achievements:
+➡️ Key Achievements:
+
 Implemented a robust financial forecasting model, resulting in more accurate budget predictions 📊.
+
 Created benchmarking against last year and target goals for budgeting 📅.
 
-2)Sales View 📈
+2) Sales View 📈
+   
+➡️ Objectives:
 
-Objectives:
 Increase sales revenue and market share.
+
 Enhance customer relationship management.
 
-Key Achievements:
+➡️ Key Achievements:
+
 Created customer and product overall sales performance report and unit economics 💼.
+
 Identified sales trends and tracked KPIs 🔍.
 
-3)Supply Chain View 📦
+3) Supply Chain View 📦
+   
+➡️ Objectives:
 
-Objectives:
 Optimize inventory management and reduce lead times.
+
 Enhance supplier relationships for cost savings.
 
-Key Achievements:
+➡️ Key Achievements:
+
 Identified forecast accuracy %, net error %, absolute error % trends 📉.
+
 Key metrics by customers and products demanding supply management 🚚.
 
-4)Executive View 👔
+4) Executive View 👔
+   
+➡️ Objectives:
 
-Objectives:
 Provide an overview of the entire organization's performance.
+
 Enable data-driven decision-making for top management.
 
-Key Achievements:
+➡️ Key Achievements:
+
 Developed an executive dashboard for real-time performance monitoring 📊.
+
 Shows revenue by division, customers, products, and channels, with a ribbon chart for manufacturers 📈.
 
-5)Marketing View 📣
+5) Marketing View 📣
+   
+➡️ Objectives:
 
-Objectives:
 Increase brand visibility and customer engagement.
+
 Implement data-driven marketing strategies.
 
-Key Achievements:
+➡️ Key Achievements:
+
 Created region and product-wise overall market performance report and unit economics 🌍.
+
 Identified market trends and tracked KPIs 📊.
 
 Skills 📚
-Learned Power BI fundamentals 🧠.
 
-Created calculating columns and DAX measures 📐.
+➡️ Learnt Power BI fundamentals 🧠.
 
-Data Modelling, data validation techniques, and using KPI indicators 📊.
+➡️ Creating calculating columns and DAX measures 📐.
 
-Using bookmarks to switch between two visuals and conditional formatting 🎨.
+➡️ Data Modelling, data validation techniques, and using KPI indicators 📊.
 
-Page navigation with buttons 🖱️.
+➡️ Using bookmarks to switch between two visuals and conditional formatting 🎨.
 
-Using tooltips to save page area 💡.
+➡️ Page navigation with buttons 🖱️.
 
-Dynamic titles based on the applied filters 🔄.
+➡️ Using tooltips to save page area 💡.
 
-Power BI services for publishing and sharing reports online 🌐.
+➡️ Dynamic titles based on the applied filters 🔄.
 
-Auto refresh setup for data through gateway ⏱️.
+➡️ Power BI services for publishing and sharing reports online 🌐.
 
-Created a date table using M language 📅.
+➡️ Auto refresh setup for data through gateway ⏱️.
+
+➡️ Created a date table using M language 📅.
 
 Tech Stacks 💻
-SQL 🗃️
 
-Power BI Desktop 🖥️
+➡️ SQL 🗃️
 
-DAX Language 🔢
+➡️ Power BI Desktop 🖥️
 
-DAX Studio (To reduce file size) 📂
+➡️ DAX Language 🔢
+
+➡️ DAX Studio (To reduce file size) 📂
 
 Business Related Terms 📈
-Gross Margin, Gross Margin %
 
-Gross Sales, Gross Sales %
+➡️ Gross Margin, Gross Margin %
 
-Pre-invoice deductions and Post-invoice deductions 💳
+➡️ Gross Sales, Gross Sales %
 
-Net Sales, Net Invoice Sales 💵
+➡️ Pre-invoice deductions and Post-invoice deductions 💳
 
-Net Profit and Net Profit % 💹
+➡️ Net Sales, Net Invoice Sales 💵
 
-COGS (Cost of Goods Sold) 📦
+➡️ Net Profit and Net Profit % 💹
 
-YTG (Year to Go) 📅
+➡️ COGS (Cost of Goods Sold) 📦
 
-YTD (Year to Date) 📊
+➡️ YTG (Year to Go) 📅
 
-Direct, Retailer, Consumer, and Distributors 🛒
+➡️ YTD (Year to Date) 📊
+
+➡️ Direct, Retailer, Consumer, and Distributors 🛒
 
 Soft Skills 🤝
 
-Stakeholder mapping analysis 📍
+➡️ Stakeholder mapping analysis 📍
 
-Effective communication with stakeholders' feedback and management 🗣️
+➡️ Effective communication with stakeholders' feedback and management 🗣️
 
-Business and domain knowledge in sales, finance, marketing, and supply chain 🏢.
+➡️ Business and domain knowledge in sales, finance, marketing, and supply chain 🏢.
 
 Conclusion 🎯
+➡️ This dashboard answers many business questions based on different scenarios. This report can be used to make data-driven decisions to make AtliQ more profitable 📈.
 
-This dashboard answers many business questions based on different scenarios. This report can be used to make data-driven decisions to make AtliQ more profitable 📈.
 
 
 
