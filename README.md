@@ -18,6 +18,7 @@ Implemented a robust financial forecasting model, resulting in more accurate bud
 
 Created benchmarking against last year and target goals for budgeting 📅.
 
+
 2) Sales View 📈
    
 ➡️ Objectives:
@@ -31,6 +32,7 @@ Enhance customer relationship management.
 Created customer and product overall sales performance report and unit economics 💼.
 
 Identified sales trends and tracked KPIs 🔍.
+
 
 3) Supply Chain View 📦
    
@@ -46,6 +48,7 @@ Identified forecast accuracy %, net error %, absolute error % trends 📉.
 
 Key metrics by customers and products demanding supply management 🚚.
 
+
 4) Executive View 👔
    
 ➡️ Objectives:
@@ -60,6 +63,7 @@ Developed an executive dashboard for real-time performance monitoring 📊.
 
 Shows revenue by division, customers, products, and channels, with a ribbon chart for manufacturers 📈.
 
+
 5) Marketing View 📣
    
 ➡️ Objectives:
@@ -73,6 +77,7 @@ Implement data-driven marketing strategies.
 Created region and product-wise overall market performance report and unit economics 🌍.
 
 Identified market trends and tracked KPIs 📊.
+
 
 ➡️Skills 📚
 
@@ -96,6 +101,7 @@ Auto refresh setup for data through gateway ⏱️.
 
 Created a date table using M language 📅.
 
+
 ➡️Tech Stacks 💻
 
 SQL 🗃️
@@ -105,6 +111,7 @@ Power BI Desktop 🖥️
 DAX Language 🔢
 
 DAX Studio (To reduce file size) 📂
+
 
 ➡️Business Related Terms 📈
 
@@ -126,6 +133,7 @@ YTD (Year to Date) 📊
 
 Direct, Retailer, Consumer, and Distributors 🛒
 
+
 ➡️ Soft Skills 🤝
 
 Stakeholder mapping analysis 📍
@@ -133,6 +141,7 @@ Stakeholder mapping analysis 📍
 Effective communication with stakeholders' feedback and management 🗣️
 
 Business and domain knowledge in sales, finance, marketing, and supply chain 🏢.
+
 
 Conclusion 🎯
 
